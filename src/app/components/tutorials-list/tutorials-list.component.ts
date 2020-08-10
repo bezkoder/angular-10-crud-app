@@ -47,7 +47,7 @@ export class TutorialsListComponent implements OnInit {
       .subscribe(
         response => {
           console.log(response);
-          this.retrieveTutorials();
+          this.refreshList();
         },
         error => {
           console.log(error);
