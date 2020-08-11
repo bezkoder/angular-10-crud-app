@@ -1,7 +1,12 @@
 # Angular 10 CRUD application example with Web API
 
-For more detail, please visit:
+For instruction, please visit:
 > [Angular 10 CRUD application example with Web API](https://bezkoder.com/angular-10-crud-app/)
+
+More practice:
+> [Angular 10 Pagination example | ngx-pagination](https://github.com/bezkoder/angular-10-pagination-example)
+
+> [Angular 10 File Upload example with progress bar](https://bezkoder.com/angular-10-file-upload/)
 
 Fullstack with Node.js Express:
 > [Angular 10 + Node.js Express + MySQL](https://bezkoder.com/angular-10-node-js-express-mysql/)
@@ -20,6 +25,8 @@ Fullstack with Django:
 
 Serverless with Firebase:
 > [Angular 10 Firebase CRUD with Realtime Database](https://bezkoder.com/angular-10-firebase-crud/)
+
+> [Angular 10 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-10-firestore-crud-angularfire/)
 
 ## Development server
 
