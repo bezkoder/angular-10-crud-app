@@ -8,6 +8,8 @@ More practice:
 
 > [Angular 10 File Upload example with progress bar](https://bezkoder.com/angular-10-file-upload/)
 
+> [Angular 10 JWT Authentication example with Web Api](https://bezkoder.com/angular-10-jwt-auth/)
+
 Fullstack with Node.js Express:
 > [Angular 10 + Node.js Express + MySQL](https://bezkoder.com/angular-10-node-js-express-mysql/)
 
@@ -25,10 +27,19 @@ Fullstack with Spring Boot:
 Fullstack with Django:
 > [Angular 10 + Django Rest Framework](https://bezkoder.com/django-angular-10-crud-rest-framework/)
 
+> [Angular 10 + Django + MySQL](https://bezkoder.com/django-angular-mysql/)
+
+> [Angular 10 + Django + PostgreSQL](https://bezkoder.com/django-angular-postgresql/)
+
 Serverless with Firebase:
 > [Angular 10 Firebase CRUD with Realtime Database](https://bezkoder.com/angular-10-firebase-crud/)
 
 > [Angular 10 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-10-firestore-crud-angularfire/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular 10 with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
 
 ## Development server
 
